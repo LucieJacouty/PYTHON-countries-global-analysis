@@ -1,4 +1,4 @@
-# Etude de marché global afin de définir des pays cibles d'exportation
+# Etude de marché globale afin de définir des pays cibles d'exportation
  
 Projet Openclassrooms formation data Analyst  
 
@@ -34,11 +34,11 @@ Au final, choix de 9 composantes
 
 ### Représentations sur le 1er plan factoriel 
 
-Représentation des individus 
-Calcul de la contribution des individus aux axes 
-Calcul de la corrélation des variables avec les axes 
-Représentation du cercle de corrélation des variables  
-Calcul de la contribution des variables aux axes 
+Représentation des individus   
+Calcul de la contribution des individus aux axes   
+Calcul de la corrélation des variables avec les axes   
+Représentation du cercle de corrélation des variables    
+Calcul de la contribution des variables aux axes   
 
 Au final, croisement des contributions et corrélations pour "nommer" les 9 composantes 
 
@@ -68,5 +68,5 @@ Projection des centroïdes sur le 1er plan factoriel
 
 Réalisation d'un heatmap croisant composantes/clusters  
 
-2 composantes idéales pour notre étude -> 5 clusters possible à viser 
+2 composantes idéales pour notre étude -> 5 clusters possible à viser   
 Cluster le plus intéressant : cluster 4, 33 pays. Europe de l’Est, Sud et Nord (Albanie, Autriche, Bulgarie, Croatie, Danemark, Finlande, Grèce, Norvège, Suède, etc.) 
