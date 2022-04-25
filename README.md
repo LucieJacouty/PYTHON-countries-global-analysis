@@ -13,7 +13,7 @@ Utilisation des librairies : Numpy, Pandas, Matplotlib, Seaborn, Scipy et Scikit
 
 ## Préparation des données 
 
-Récupération de nombreux indicateurs sur le site de la Banque Mondiale (importations, exportations, PIB, PNB, endêtemment, taux de chômage, etc.) 
+Récupération de nombreux indicateurs sur le site de la Banque Mondiale (importations, exportations, PIB, PNB, endêtemment, taux de chômage, etc.)  
 Au final -> 173 individus (pays) pour 36 variables  
 
 
