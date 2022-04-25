@@ -1,9 +1,13 @@
 # Etude de marché globale afin de définir des pays cibles d'exportation
  
-Projet Openclassrooms formation data Analyst  
+Projet Openclassrooms - Formation Data Analyst  
 
-Au sein d'une entreprise agroalimentaire, le but est d'effectuer une première étude de marché afin de définir des pays cibles pour une expansion à l'international  
-Choix d'effectuer une analyse très large qui fait un "état de santé" des pays
+Objectif : Au sein d'une entreprise agroalimentaire, effectuer une première étude de marché afin de définir des pays cibles pour une expansion à l'international  
+Choix d'effectuer une analyse très large qui fait un "état de santé" des pays  
+
+Contenu :
+- Data : toutes les données utilisées (5 datasets) 
+- Notebook : le notebook jupyter regroupant toutes les analyses
 
 Utilisation des librairies : Numpy, Pandas, Matplotlib, Seaborn, Scipy et Scikit-learn 
 
